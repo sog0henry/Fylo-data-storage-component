@@ -99,7 +99,7 @@ body {
 }
 .design .box:last-child .message {
     position: absolute;
-    top: -64px;
+    top: 30px;
     background-color: white;
     color: black;
     padding: 20px 35px;
